@@ -1,0 +1,35 @@
+{
+  "name": "netkeep",
+  "version": "1.0.0",
+  "description": "decentralized, peer-to-peer (P2P) storage system that allows for secure collaboration and data exchange directly between browsers. It leverages sessionStorage for local data storage and WebRTC for P2P communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagnusCardell/NetKeep.git"
+  },
+  "keywords": [
+    "P2P",
+    "WebRTC",
+    "sessionStorage",
+    "decentralized",
+    "storage",
+    "data",
+    "exchange",
+    "secure",
+    "collaboration",
+    "browser",
+    "JavaScript"
+  ],
+  "author": "Magnus Cardell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MagnusCardell/NetKeep/issues"
+  },
+  "homepage": "https://github.com/MagnusCardell/NetKeep#readme",
+  "devDependencies": {
+    "playwright": "^1.36.1"
+  }
+}
